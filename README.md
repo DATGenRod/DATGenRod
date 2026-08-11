@@ -1,8 +1,6 @@
 # Professional Profile - Technical Support & Network Engineering
 
-A results-driven Technical Operations specialist transitioning into Network Engineering and Cybersecurity. Backed by vendor-specific certifications in Network Engineering and Customer Consulting from Akamai, alongside deep hands-on experience in Linux architectures and Docker containerization. 
-
-My professional trajectory is defined by managing operational risk, technical triage, and infrastructure safety across highly scaled enterprise environments. I bridge the gap between production infrastructure logic and business critical support.
+IT & Networking professional in transition, focused on network engineering, cybersecurity, and technical operations. Building hands-on projects with Linux, Python, Docker, and networking tools while strengthening my skills through industry training and certifications.
 
 ---
 
