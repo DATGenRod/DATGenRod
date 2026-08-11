@@ -6,7 +6,7 @@ I'm an IT professional transitioning into **Network Engineering and Cybersecurit
 
 I'm building hands-on technical experience through **Linux, Python, Docker, networking, and security projects**, while continuing my professional development through industry certifications and technical training.
 
-My goal is to build a career in **IT infrastructure, network operations, and cybersecurity**, with a strong focus on troubleshooting, automation, system diagnostics, and security.
+I'm focused on building a career in **IT infrastructure, network operations, and cybersecurity**, with a strong focus on troubleshooting, automation, system diagnostics, and security.
 
 ---
 
