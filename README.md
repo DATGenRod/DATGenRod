@@ -109,20 +109,20 @@ The project includes functionality for:
 ### Cybersecurity
 
 - **Cybersecurity Fundamentals — Palo Alto Networks**
-- **Introduction to IT Security — Akamai**
 
 ### Cloud & Technology
 
-- **Google Cloud Computing Foundations — Google Cloud**
+- **Google Cloud Computing Foundations — Google Cloud(in progress)**
 - **Artificial Intelligence Fundamentals — IBM**
 - **Responsible AI and Risk Management - IBM**
+- **MIcrosoft AI-103 (IN PROGRESS, SEPT 11TH)**
 
 ### Other Professional Development
 
 - **SCRUM Fundamentals Certified (SFC) — SCRUMstudy**
 - **NASA Open Science Essentials — NASA**
 - **HIPAA compliance training program - HIPAA Training**
-- 
+
 
 ---
 
