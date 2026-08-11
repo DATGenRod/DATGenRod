@@ -1,6 +1,6 @@
 # Professional Profile - Technical Support & Network Engineering
 
-IT & Networking professional in transition, focused on network engineering, cybersecurity, and technical operations. Building hands-on projects with Linux, Python, Docker, and networking tools while strengthening my skills through industry training and certifications.
+IT professional transitioning into Network Engineering and Cybersecurity. I build hands-on projects using Linux, Python, Docker, and networking technologies, with a focus on troubleshooting, automation, system diagnostics, and security.
 
 ---
 
