@@ -19,12 +19,12 @@ My professional trajectory is defined by managing operational risk, technical tr
 
 ---
 
-## Professional Evolution (The Value Add)
+## Professional Evolution 
 
 My background across specialized analysis roles provides an immediate technical advantage in complex IT environments:
 
 - **Network & System Diagnostics:** Proven ability to intercept and evaluate infrastructure status under strict Time-to-Resolution (TTR) boundaries, heavily trained during my time in high-volume escalation setups like Seller Partner Support and Trust and Safety operations.
-- **Data Integrity & Label Auditing:** Direct experience managing and auditing algorithmic structured data inputs as a GO AI Associate, guaranteeing precise compliance patterns and operational accuracy.
+- **Data Integrity & Label Auditing:** Direct experience managing and auditing visual data inputs as a GO AI Associate, guaranteeing precise compliance patterns and operational accuracy.
 - **Risk Mitigation & Incident Management:** Background as a Fraud Investigations Analyst and AML KYC Analyst ensures an investigative, security-first mindset natively aligned with Security Operations Center (SOC) compliance frameworks and infrastructure auditing.
 
 ---
