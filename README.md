@@ -71,7 +71,7 @@ The project explores practical approaches to:
 - Initial security triage
 - Containerized application deployment
 
-[View Repository →](https://github.com/DATGenRod)
+[View Repository →](https://github.com/DATGenRod/trust-safety-shield)
 
 ---
 
@@ -90,8 +90,7 @@ The project includes functionality for:
 - Command-line workflows
 - Containerized execution
 
-[View Repository →](https://github.com/DATGenRod)
-
+[View Repository →](https://github.com/DATGenRod/netpulse-triage)
 ---
 
 ## Certifications & Technical Training
