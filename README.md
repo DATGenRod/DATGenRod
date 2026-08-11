@@ -1,53 +1,170 @@
-# Professional Profile - Technical Support & Network Engineering
+# Hi, I'm Genesis!
 
-IT professional transitioning into Network Engineering and Cybersecurity. I build hands-on projects using Linux, Python, Docker, and networking technologies, with a focus on troubleshooting, automation, system diagnostics, and security.
+## IT | Networking | Cybersecurity
 
----
+I'm an IT professional transitioning into **Network Engineering and Cybersecurity**, with a background in compliance, fraud analysis, quality operations, and data-driven environments.
 
-## Technical Skill Mapping
+I'm building hands-on technical experience through **Linux, Python, Docker, networking, and security projects**, while continuing my professional development through industry certifications and technical training.
 
-### Network Infrastructure & Security
-- Architecture and Ruteo: Network Engineering concepts, Layer 4/Layer 7 traffic routing, Edge architecture systems (Akamai methodology).
-- Service Security: Diagnostic auditing, Threat Intelligence logging parsing, Regular Expressions (RegEx) mitigation logic.
-- Operating Systems: Native Linux administration (Ubuntu/Debian environment management, advanced CLI navigation, Shell troubleshooting).
-
-### Automation & Containerization
-- Containers: Docker architecture, customized slim image compilation, dockerfile orchestration, and container networking.
-- Automation: Python scripting for systems infrastructure, operational task optimization, and automated monitoring scripts.
+My goal is to build a career in **IT infrastructure, network operations, and cybersecurity**, with a strong focus on troubleshooting, automation, system diagnostics, and security.
 
 ---
 
-## Professional Evolution 
+## Technical Skills
 
-My background across specialized analysis roles provides an immediate technical advantage in complex IT environments:
+### Networking
+- TCP/IP
+- IPv4
+- DNS
+- DHCP
+- ICMP
+- Network troubleshooting
+- Network diagnostics
+- Cisco Packet Tracer
 
-- **Network & System Diagnostics:** Proven ability to intercept and evaluate infrastructure status under strict Time-to-Resolution (TTR) boundaries, heavily trained during my time in high-volume escalation setups like Seller Partner Support and Trust and Safety operations.
-- **Data Integrity & Label Auditing:** Direct experience managing and auditing visual data inputs as a GO AI Associate, guaranteeing precise compliance patterns and operational accuracy.
-- **Risk Mitigation & Incident Management:** Background as a Fraud Investigations Analyst and AML KYC Analyst ensures an investigative, security-first mindset natively aligned with Security Operations Center (SOC) compliance frameworks and infrastructure auditing.
+### Operating Systems
+- Linux
+- Ubuntu
+- Windows
+- Command Line / CLI
+
+### Programming & Scripting
+- Python
+- SQL
+- Regular Expressions
+
+### Containers & Development
+- Docker
+- Git
+- GitHub
+- Visual Studio Code
+
+### Security
+- IT Security Fundamentals
+- Log Analysis
+- Threat Detection
+- Security-oriented Troubleshooting
+- Compliance & Risk Analysis
+
+### Data & Analytics
+- Excel
+- Power BI
+- MySQL
+- Data Analysis
 
 ---
 
-## Portfolio Architecture Overview
+## Featured Projects
 
-### 1. Trust & Safety Shield
-An automated security triage microservice containerized with Docker. It processes text streams or support log files utilizing advanced Python Regular Expressions (RegEx) to isolate malicious network components (IPs and Domains) against threat intelligence blocklists.
-- Tech Stack: Python 3.11, Docker (Slim Debian footprint).
-- Repository: [trust-safety-shield](https://github.com)
+### Trust & Safety Shield
 
-### 2. NetPulse-Triage
-A command-line interface (CLI) diagnostic script designed to minimize escalation times in Tier 2/3 engineering workflows. Automates system utilization telemetry, local socket DNS lookups, and outbound ICMP connectivity checks.
-- Tech Stack: Python, Native Subprocesses, Docker Networking.
-- Repository: [netpulse-triage](https://github.com)
+**Python | Docker | Linux | Regular Expressions | Security**
+
+A containerized Python project focused on analyzing text streams and support logs for potentially malicious IP addresses and domains.
+
+The project explores practical approaches to:
+
+- Log and text parsing
+- IP and domain extraction
+- Regular-expression based detection
+- Threat-intelligence blocklist matching
+- Initial security triage
+- Containerized application deployment
+
+[View Repository →](https://github.com/DATGenRod)
 
 ---
 
-## Credentials and Continuous Learning
-- Akamai Certified Network Engineering Professional
-- Akamai Certified Customer Consulting and Support Specialist
-- Advanced Linux Systems Administration and Docker Foundations Curriculum
+### NetPulse-Triage
+
+**Python | Docker | Linux | Networking**
+
+A command-line network and system diagnostic tool designed to assist with basic troubleshooting and infrastructure checks.
+
+The project includes functionality for:
+
+- System telemetry collection
+- DNS resolution
+- ICMP connectivity checks
+- Network diagnostics
+- Command-line workflows
+- Containerized execution
+
+[View Repository →](https://github.com/DATGenRod)
 
 ---
 
-## Contact and Professional Networking
-- GitHub Portfolio: https://github.com
-- Professional inquiries regarding Technical Support, System Administration, or Network Operations roles are welcome.
+## Certifications & Technical Training
+
+### Networking & IT
+
+- **Networking Engineering Certificate — Akamai**
+  - Networking Fundamentals
+  - Operating Systems Fundamentals
+  - Python Scripting Fundamentals
+  - Managing Relational Databases
+  - Introduction to IT Security
+
+- **Linux Unhatched — Cisco Networking Academy**
+
+### Cybersecurity
+
+- **Cybersecurity Fundamentals — Palo Alto Networks**
+- **Introduction to IT Security — Akamai**
+
+### Cloud & Technology
+
+- **Google Cloud Computing Foundations — Google Cloud**
+- **Artificial Intelligence Fundamentals — IBM**
+- **Responsible AI and Risk Management - IBM**
+
+### Other Professional Development
+
+- **SCRUM Fundamentals Certified (SFC) — SCRUMstudy**
+- **NASA Open Science Essentials — NASA**
+- **HIPAA compliance training program - HIPAA Training**
+- 
+
+---
+
+## Currently Learning
+
+I'm currently expanding my knowledge in:
+
+- Network engineering
+- Linux administration
+- Cybersecurity
+- Network troubleshooting
+- Python scripting and automation
+- Cloud infrastructure
+- Security operations
+- IT infrastructure
+- Docker and containerization
+
+---
+
+## Career Focus
+
+I'm currently looking for opportunities in:
+
+- IT Support
+- Technical Support
+- Network Operations / NOC
+- Junior Network Engineering
+- Systems Support
+- Entry-Level Cybersecurity
+- SOC / Security Operations
+
+I'm particularly interested in roles where I can combine **technical troubleshooting, networking, automation, and security** while continuing to grow within the IT infrastructure field.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [www.linkedin.com/in/genrodher]
+- 🐙 GitHub: [@DATGenRod](https://github.com/DATGenRod)
+- 📧 Email: [genrh18902@gmail.com]
+
+---
+
+> **Learning by building, troubleshooting, and breaking things until I understand how they work.**
